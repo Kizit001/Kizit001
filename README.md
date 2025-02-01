@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Kizit001/Kizit001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am Kizito Amarawuchi. 
 
-Here are some ideas to get you started:
+### Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I am a data analyst. My role involves the identification of business problems, the extraction, cleaning and presentation of data from databases to help businesses make informed and data driven decisions. 
+** I am currently mastering the use of analytical softwares such as power BI and SQL. 
+
+### I am open to collaborate with teams to:
+-  Design and maintain data systems which makes information accessible. 
+-  Conduct in depth analyses in order to spot trends, identify and build on opportunities, or work on inadequacies.
+-  Forecast outcomes and improve planning using predictive models. 
+-  Analyse the prospects in new stayistical tools and technologies for enhancing data management and visualization.
+-  I'm always and happily at your service and open to learn from you if you have a project that involves the visualization of large datasets to aid decision-making. 
+### Be it specific projects or general sharing of ideas relating to data and solving of problems using data analytics, I would be super excited to connect and work with you. Feel free reach out to me through:
+ - [Email] (amarawuchikizito@gmail.com)
+ * Or connect with me on [LinkedIn] (https://www.linkedin.com/public-profile/settings) : Let's see how best to work together. 
