@@ -15,4 +15,4 @@
 -  I'm always and happily at your service and open to learn from you if you have a project that involves the visualization of large datasets to aid decision-making. 
 ### Be it specific projects or general sharing of ideas relating to data and solving of problems using data analytics, I would be super excited to connect and work with you. Feel free reach out to me through:
  - [Email] (amarawuchikizito@gmail.com)
- * Or connect with me on [LinkedIn] (https://www.linkedin.com/public-profile/settings) : Let's see how best to work together. 
+ * Or connect with me on [LinkedIn] (www.linkedin.com/in/Ifedi-Kizito) : Let's see how best to work together. 
